@@ -1,3 +1,4 @@
+
 require 'rails_helper'
 
 describe 'navigate artist pages' do
